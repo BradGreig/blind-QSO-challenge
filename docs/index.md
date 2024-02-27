@@ -19,8 +19,8 @@ On this page you can find the following:
 
 #### Sample 2 (BOSS/SDSS)
 
-[Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample1_Spectrum16.pdf)
-[Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample1_Spectrum25.pdf)
+[Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum16.pdf)
+[Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum25.pdf)
 
 ## Contact Information
 
