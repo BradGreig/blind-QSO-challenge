@@ -5,14 +5,22 @@ Current working template for page outlining QSO reconstruction info
 On this page you can find the following:
 
 - [Methodology](#methodology)
-- [Individual profile reconstructions] (#individual-reconstructions)
+- [Individual profile reconstructions](#individual-reconstructions)
 - [Contact Information](#contact-information)
 
 ## Methodology
 
 ## Individual profile reconstructions
 
-[Spectrum #1](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf)
+#### Sample 1 (X-Shooter)
+
+[Spectrum #3](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf)
+[Spectrum #4](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum4.pdf)
+
+#### Sample 2 (BOSS/SDSS)
+
+[Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample1_Spectrum16.pdf)
+[Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample1_Spectrum25.pdf)
 
 ## Contact Information
 
