@@ -11,13 +11,13 @@ On this page you can find the following:
 
 ## Methodology
 
-To test the performance of all (at the time) known QSO reconstruction pipelines at predicting the Lyman-alpha (Ly\alpha) line profile (1180-1260\AA) from a small, unified sample of QSOs. For each QSO, the QSO flux was blinded (removed) prior to performing the QSO flux predictions. In total, 60 QSOs were reconstructed, with 30 QSOs each obtained from X-Shooter ([XQ-100](https://ui.adsabs.harvard.edu/abs/2016A&A...594A..91L)) and SDSS (BOSS [DR16](https://ui.adsabs.harvard.edu/abs/2020ApJS..250....8L)).
+To test the performance of all (at the time) known QSO reconstruction pipelines at predicting the Lyman-alpha (Ly&alpha;) line profile (1180-1260&#8491;) from a small, unified sample of QSOs. For each QSO, the QSO flux was blinded (removed) prior to performing the QSO flux predictions. In total, 60 QSOs were reconstructed, with 30 QSOs each obtained from X-Shooter ([XQ-100](https://ui.adsabs.harvard.edu/abs/2016A&A...594A..91L)) and SDSS (BOSS [DR16](https://ui.adsabs.harvard.edu/abs/2020ApJS..250....8L)).
 
 ## Reconstruction pipelines
 
 In total 9 different reconstruction pipelines were utilised for this comparison project. Below, a brief summary of each is provided along with links to the original publication.
 
-- [Greig](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1814G): Covariance matrix reconstruction based on the measured line-correlation strengths between Ly\alpha, N\,{\scriptsize V}, CIV, Si IV + O IV and CIII obtained from a large training set of low-z QSOs 
+- [Greig](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1814G): Covariance matrix reconstruction based on the measured line-correlation strengths between Ly&alpha;, N\,{\scriptsize V}, CIV, Si IV + O IV and CIII obtained from a large training set of low-z QSOs 
 - [Davies](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..143D): 
 - [QSANNdRA ({{\v{D}}urov{\v{c}}{\'\i}kov{\'a})](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D):
 - [Fathivavsari](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..114F)
