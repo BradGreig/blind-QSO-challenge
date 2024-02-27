@@ -33,7 +33,7 @@ Below, a table is provided containing the selected QSOs from X-Shooter (Sample 1
 
 #### Sample 1 (X-Shooter)
 
-A compressed file containing all individual QSO reconstructions can be found here.
+A compressed file containing all individual QSO reconstructions for this specific sample can be found here.
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
@@ -55,7 +55,7 @@ A compressed file containing all individual QSO reconstructions can be found her
 
 #### Sample 2 (BOSS/SDSS)
 
-A compressed file containing all individual QSO reconstructions can be found here.
+A compressed file containing all individual QSO reconstructions for this specific sample can be found here.
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
