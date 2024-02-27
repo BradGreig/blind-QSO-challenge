@@ -19,7 +19,7 @@ In total 9 different reconstruction pipelines were utilised for this comparison 
 
 - [Greig](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1814G): Covariance matrix reconstruction based on the measured line-correlation strengths between Ly&alpha;, N\,{\scriptsize V}, CIV, Si IV + O IV and CIII obtained from a large training set of low-z QSOs 
 - [Davies](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..143D): 
-- [QSANNdRA ({{\v{D}}urov{\v{c}}{\'\i}kov{\'a})](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D):
+- [QSANNdRA (&#270;urov&#269;&iacute;kov&aacute;)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D):
 - [Fathivavsari](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..114F)
 - [Spectre (Reiman)](https://ui.adsabs.harvard.edu/abs/2020arXiv200600615R):
 - [iQNet (Liu)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3510L):
