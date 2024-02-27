@@ -6,7 +6,7 @@ On this page you can find the following:
 
 - [Methodology](#methodology)
 - [Reconstruction pipelines](#reconstruction-pipelines)
-- [Individual profile reconstructions](#individual-reconstructions)
+- [Individual profile reconstructions](#individual-profile-reconstructions)
 - [Contact Information](#contact-information)
 
 ## Methodology
