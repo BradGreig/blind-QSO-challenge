@@ -17,18 +17,23 @@ To test the performance of all (at the time) known QSO reconstruction pipelines 
 
 In total 9 different reconstruction pipelines were utilised for this comparison project. Below, a brief summary of each is provided along with links to the original publication.
 
-- [Greig](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1814G): Covariance matrix reconstruction based on the measured line-correlation strengths between Ly&alpha;, N\,{\scriptsize V}, CIV, Si IV + O IV and CIII obtained from a large training set of low-z QSOs 
-- [Davies](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..143D): 
-- [QSANNdRA (&#270;urov&#269;&iacute;kov&aacute;)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D):
-- [Fathivavsari](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..114F)
-- [Spectre (Reiman)](https://ui.adsabs.harvard.edu/abs/2020arXiv200600615R):
-- [iQNet (Liu)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3510L):
-- [Bosman](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...29C/abstract):
-- [QFA (Sun)](https://ui.adsabs.harvard.edu/abs/2023ApJS..269....4S):
+- [Greig](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1814G): Covariance matrix reconstruction based on the measured line-correlation strengths between Ly&alpha;, N V , C IV, Si IV + O IV doublet and C III obtained from a large training set of low-z QSOs. Line profiles are fit with a mixture of single and double component Gaussian profiles characterising the line width, height and velocity offset. 
+- [Davies](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..143D): Spectral decomposition of the QSO flux following principal component analysis (PCA). Predict the blue-side (<1280&#8491;) PCA components from the red-side components by applying a projection matrix trained on a low-z sample of QSOs.
+- [QSANNdRA (&#270;urov&#269;&iacute;kov&aacute;)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D): An extension of the Davies approach, connecting the blue-red side PCA components with an artifical neural network (ANN). Consider a larger and new training set of QSOs along with more PCA components.
+- [Fathivavsari](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..114F): Neural network reconstruction of the QSO flux within each spectral bin between 1170-1290&#8491; based on the observed QSO flux around C IV, the Si IV + O IV doublet and C III.
+- [Spectre (Reiman)](https://ui.adsabs.harvard.edu/abs/2020arXiv200600615R): An extension of QSANNdRA utilising normalising flows to provide a probabilistic distribution of reconstructed QSO profiles.
+- [iQNet (Liu)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3510L): Simple auto encoder network to predict the Ly&alpha; flux based on redward information.
+- [Bosman](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...29C/abstract): An extension of the Davies PCA based reconstruction approach with a larger training set.
+- [QFA (Sun)](https://ui.adsabs.harvard.edu/abs/2023ApJS..269....4S): unsupervised and probabilisitic reconstruction approach based on latent factor analysis.
+- Meyer: An information maximising variational auto encoder is used to predict the Ly&alpha; profile based on the redward information.
 
 ## Individual profile reconstructions
 
+Below, a table is provided containing the selected QSOs from X-Shooter (Sample 1) and SDSS/BOSS (Sample 2) along with link to a figure demonstrating the performance of each reconstruction pipeline.
+
 #### Sample 1 (X-Shooter)
+
+A compressed file containing all individual QSO reconstructions can be found here.
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
@@ -49,6 +54,8 @@ In total 9 different reconstruction pipelines were utilised for this comparison 
 | J111701+131115 | 3.62 | Spectrum #15 | | BR 2248-1242 | 4.16 | Spectrum #30 |
 
 #### Sample 2 (BOSS/SDSS)
+
+A compressed file containing all individual QSO reconstructions can be found here.
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
