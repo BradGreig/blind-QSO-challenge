@@ -14,11 +14,9 @@ On this page you can find the following:
 
 #### Sample 1 (X-Shooter)
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
+| -------- | ------- | -------- | ------- | -------- | ------- | ------- |
+| BR J0030-5159 | 4.17 | [Spectrum #1](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf) | | J112617-012632 | 3.63 | [Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf) |
 
 
 | [Spectrum #1](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf)
