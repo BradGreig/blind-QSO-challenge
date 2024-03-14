@@ -37,21 +37,21 @@ A compressed file containing all individual QSO reconstructions for this specifi
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
-| BR J0030-5159 | 4.17 | Spectrum #1 | | J112617-012632 | 3.63 | Spectrum #16 |
-| HB89 0055-269 | 3.66 | Spectrum #2 | | HB89 1159+123 | 3.52 | Spectrum #17 |
-| PMN J0100-2708 | 3.55 | [Spectrum #3](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf) | | SDSSJ1202-0054 | 3.59 | Spectrum #18 |
-| PSS J0117+1552 | 4.24 | [Spectrum #4](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum4.pdf) | | J124837+130440 |3.72  | Spectrum #19 |
-| BR J0401-1711 | 4.23 | Spectrum #5 | | J135247+130311 | 3.71 | Spectrum #20 |
-| BR J0529-3526 | 4.42 | Spectrum #6 | | SDSSJ1416+1811 | 3.59 | Spectrum #21 |
-| SDSS J075552.41 | 3.67 | Spectrum #7 | | PKS B1418-064 | 3.69 | Spectrum #22 |
-| SDSS J083322.50 | 3.72 | Spectrum #8 | | J144250+092001 | 3.536 | Spectrum #23 |
-| SDSS J093714.48 | 3.70 | Spectrum #9 | | SDSSJ1445+0958 | 3.56 | Spectrum #24 |
-| J101818+054822 | 3.52 | Spectrum #10 | | J150328+041949 | 3.69 | Spectrum #25 |
-| BR 1033-0327 | 4.53 | Spectrum #11 | | SDSSJ1517+0511 | 3.55 | Spectrum #26 |
-| SDSSJ1037+2135 | 3.63 | Spectrum #12 | | J1621-0042 | 3.71 | Spectrum #27 |
-| SDSSJ1042+1957 | 3.63 | Spectrum #13 | | PSS J1723+2243 | 4.53 | Spectrum #28 |
-| SDSS J105340.75| 3.66 | Spectrum #14 | | J2239536-055219 | 4.56 | Spectrum #29 |
-| J111701+131115 | 3.62 | Spectrum #15 | | BR 2248-1242 | 4.16 | Spectrum #30 |
+| BR J0030-5159 | 4.17 | [Spectrum #1](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum1.pdf) | | J112617-012632 | 3.63 | [Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum16.pdf) |
+| HB89 0055-269 | 3.66 | [Spectrum #2](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum2.pdf) | | HB89 1159+123 | 3.52 | [Spectrum #17](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum17.pdf) |
+| PMN J0100-2708 | 3.55 | [Spectrum #3](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum3.pdf) | | SDSSJ1202-0054 | 3.59 | [Spectrum #18](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum18.pdf) |
+| PSS J0117+1552 | 4.24 | [Spectrum #4](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum4.pdf) | | J124837+130440 |3.72  | [Spectrum #19](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum19.pdf) |
+| BR J0401-1711 | 4.23 | [Spectrum #5](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum5.pdf) | | J135247+130311 | 3.71 | [Spectrum #20](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum20.pdf) |
+| BR J0529-3526 | 4.42 | [Spectrum #6](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum6.pdf) | | SDSSJ1416+1811 | 3.59 | [Spectrum #21](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum21.pdf) |
+| SDSS J075552.41 | 3.67 | [Spectrum #7](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum7.pdf) | | PKS B1418-064 | 3.69 | [Spectrum #22](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum22.pdf) |
+| SDSS J083322.50 | 3.72 | [Spectrum #8](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum8.pdf) | | J144250+092001 | 3.536 | [Spectrum #23](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum23.pdf) |
+| SDSS J093714.48 | 3.70 | [Spectrum #9](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum9.pdf) | | SDSSJ1445+0958 | 3.56 | [Spectrum #24](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum24.pdf) |
+| J101818+054822 | 3.52 | [Spectrum #10](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum10.pdf) | | J150328+041949 | 3.69 | [Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum25.pdf) |
+| BR 1033-0327 | 4.53 | [Spectrum #11](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum11.pdf) | | SDSSJ1517+0511 | 3.55 | [Spectrum #26](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum26.pdf) |
+| SDSSJ1037+2135 | 3.63 | [Spectrum #12](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum12.pdf) | | J1621-0042 | 3.71 | [Spectrum #27](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum27.pdf) |
+| SDSSJ1042+1957 | 3.63 | [Spectrum #13](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum13.pdf) | | PSS J1723+2243 | 4.53 | [Spectrum #28](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum28.pdf) |
+| SDSS J105340.75| 3.66 | [Spectrum #14](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum14.pdf) | | J2239536-055219 | 4.56 | [Spectrum #29](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum29.pdf) |
+| J111701+131115 | 3.62 | [Spectrum #15](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum15.pdf) | | BR 2248-1242 | 4.16 | [Spectrum #30](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample1/Sample1_Spectrum30.pdf) |
 
 #### Sample 2 (BOSS/SDSS)
 
