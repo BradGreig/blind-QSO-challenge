@@ -35,6 +35,7 @@ Below, a table is provided containing the selected QSOs from X-Shooter (Sample 1
 
 A compressed file containing all individual QSO reconstructions for this specific sample can be found [here](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Compressed/Dec7th_2023-Sample1.zip).
 <a href="https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Compressed/Dec7th_2023-Sample1.zip" target="_blank">Download</a>
+[another-try](https://github.com/BradGreig/blind-QSO-challenge/raw/main/data/Compressed/Dec7th_2023-Sample1.zip)
 
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
