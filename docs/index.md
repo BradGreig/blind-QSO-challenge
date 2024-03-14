@@ -56,7 +56,7 @@ A compressed file containing all individual QSO reconstructions for this specifi
 
 #### Sample 2 (BOSS/SDSS)
 
-A compressed file containing all individual QSO reconstructions for this specific sample can be found [here](https://github.com/BradGreig/blind-QSO-challenge/raw/main/data/Compressed/Dec7th_2023-Sample1.zip).
+A compressed file containing all individual QSO reconstructions for this specific sample can be found [here](https://github.com/BradGreig/blind-QSO-challenge/raw/main/data/Compressed/Dec7th_2023-Sample2.zip).
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
