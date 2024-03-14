@@ -59,21 +59,21 @@ A compressed file containing all individual QSO reconstructions for this specifi
 
 | QSO name | Redshift | Figure | | QSO name | Redshift | Figure |
 | -------- | ------- | -------- | ------- | -------- | ------- | ------- |
-| 3682-55244-942 | 3.76 | Spectrum #1 | | 5184-56352-692 | 3.64 | [Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum16.pdf) |
-| 3776-55209-946 | 3.60 | Spectrum #2 | | 5376-55987-382 | 3.69 | Spectrum #17 |
-| 3779-55222-358 | 3.63 | Spectrum #3 | |  5443-56010-898 | 3.69 | Spectrum #18 |
-| 3839-55575-164 | 3.63 | Spectrum #4 | | 5444-56038-798 | 3.68  | Spectrum #19 |
-| 3860-55269-816 | 3.63 | Spectrum #5 | | 5472-55976-822 | 3.54 | Spectrum #20 |
-| 3872-55382-651 | 3.65 | Spectrum #6 | | 5715-56657-890 | 3.97 | Spectrum #21 |
-| 4011-55635-724 | 3.60 | Spectrum #7 | | 6418-56354-249 | 3.77 | Spectrum #22 |
-| 4178-55653-342 | 3.77 | Spectrum #8 | | 6512-56567-682 | 3.93 | Spectrum #23 |
-| 4229-55501-552 | 3.84 | Spectrum #9 | | 6713-56402-346 | 3.57 | Spectrum #24 |
-| 4361-55831-656 | 3.52 | Spectrum #10 | | 6745-56425-330 | 3.83 | [Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum25.pdf) |
-| 4629-55630-210 | 3.95 | Spectrum #11 | | 6758-56415-369 | 3.90 | Spectrum #26 |
-| 4711-55737-766 | 3.62 | Spectrum #12 | | 7085-56625-895 | 3.77 | Spectrum #27 |
-| 4747-55652-761 | 3.66 | Spectrum #13 | | 7096-56683-885 | 3.69 | Spectrum #28 |
-| 4799-55656-446 | 4.11 | Spectrum #14 | | 7112-56666-380 | 3.52 | Spectrum #29 |
-| 5174-56047-750 | 3.55 | Spectrum #15 | | 9616-58135-682 | 4.02 | Spectrum #30 |
+| 3682-55244-942 | 3.76 | [Spectrum #1](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum1.pdf) | | 5184-56352-692 | 3.64 | [Spectrum #16](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum16.pdf) |
+| 3776-55209-946 | 3.60 | [Spectrum #2](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum2.pdf) | | 5376-55987-382 | 3.69 | [Spectrum #17](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum17.pdf) |
+| 3779-55222-358 | 3.63 | [Spectrum #3](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum3.pdf) | |  5443-56010-898 | 3.69 | [Spectrum #18](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum18.pdf) |
+| 3839-55575-164 | 3.63 | [Spectrum #4](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum4.pdf) | | 5444-56038-798 | 3.68  | [Spectrum #19](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum19.pdf) |
+| 3860-55269-816 | 3.63 | [Spectrum #5](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum5.pdf) | | 5472-55976-822 | 3.54 | [Spectrum #20](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum20.pdf) |
+| 3872-55382-651 | 3.65 | [Spectrum #6](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum6.pdf) | | 5715-56657-890 | 3.97 | [Spectrum #21](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum21.pdf) |
+| 4011-55635-724 | 3.60 | [Spectrum #7](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum7.pdf) | | 6418-56354-249 | 3.77 | [Spectrum #22](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum22.pdf) |
+| 4178-55653-342 | 3.77 | [Spectrum #8](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum8.pdf) | | 6512-56567-682 | 3.93 | [Spectrum #23](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum23.pdf) |
+| 4229-55501-552 | 3.84 | [Spectrum #9](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum9.pdf) | | 6713-56402-346 | 3.57 | [Spectrum #24](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum24.pdf) |
+| 4361-55831-656 | 3.52 |[Spectrum #10](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum10.pdf) | | 6745-56425-330 | 3.83 | [Spectrum #25](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum25.pdf) |
+| 4629-55630-210 | 3.95 | [Spectrum #11](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum11.pdf) | | 6758-56415-369 | 3.90 | [Spectrum #26](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum26.pdf) |
+| 4711-55737-766 | 3.62 | [Spectrum #12](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum12.pdf) | | 7085-56625-895 | 3.77 | [Spectrum #27](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum27.pdf) |
+| 4747-55652-761 | 3.66 | [Spectrum #13](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum13.pdf) | | 7096-56683-885 | 3.69 | [Spectrum #28](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum28.pdf) |
+| 4799-55656-446 | 4.11 | [Spectrum #14](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum14.pdf) | | 7112-56666-380 | 3.52 | [Spectrum #29](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum29.pdf) |
+| 5174-56047-750 | 3.55 | [Spectrum #15](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum15.pdf) | | 9616-58135-682 | 4.02 | [Spectrum #30](https://github.com/BradGreig/blind-QSO-challenge/blob/main/data/Sample2/Sample2_Spectrum30.pdf) |
 
 ## Contact Information
 
